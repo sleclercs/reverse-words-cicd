@@ -12,5 +12,5 @@ spec:
         - name: RELEASE
           value: Stage Release
         - $patch: replace
-        image: quay.io/stephane.leclerc/reversewords-ci:0.0.30
+        image: quay.io/stephane.leclerc/reversewords-ci:0.0.31
         name: reverse-words
